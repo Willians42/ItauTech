@@ -1,2 +1,2 @@
 # ItauTech
-Projeto em grupo realizado no programa "formação Itaú Tech" da Gama Academy
+Projeto em grupo realizado para programa "formação Itaú Tech" da Gama Academy
